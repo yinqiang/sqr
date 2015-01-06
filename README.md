@@ -1,0 +1,4 @@
+sqr
+===
+
+QR image maker
