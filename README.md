@@ -12,6 +12,6 @@ $ python sqr.py -h    # for help
 ```
 
 ##Depends
-1.python 2.7
-2.PIL
-3.qrcode
+- python 2.7
+- PIL
+- qrcode
